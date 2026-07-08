@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,Course,Marks,City
+101,Amit,20,Male,AIML,85,Pune
+102,Priya,19,Female,CSE,91,Mumbai
+103,Rahul,21,Male,IT,78,Nashik
+104,Sneha,20,Female,AIML,88,Aurangabad
+105,Rohan,22,Male,ECE,75,Nagpur
+106,Pooja,19,Female,CSE,95,Pune
+107,Akash,21,Male,IT,82,Mumbai
+108,Neha,20,Female,AIML,89,Nashik
+109,Vikas,22,Male,CSE,76,Aurangabad
+110,Kavya,19,Female,ECE,93,Nagpur
